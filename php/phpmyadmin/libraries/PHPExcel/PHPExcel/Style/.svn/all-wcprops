@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style
+END
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Border.php
+END
+Alignment.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Alignment.php
+END
+Color.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Color.php
+END
+Borders.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Borders.php
+END
+NumberFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/NumberFormat.php
+END
+Conditional.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Conditional.php
+END
+Fill.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Fill.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Font.php
+END
+Protection.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style/Protection.php
+END

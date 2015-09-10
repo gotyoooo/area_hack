@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib
+END
+ConfigFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/ConfigFile.class.php
+END
+index.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/index.lib.php
+END
+FormDisplay.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/FormDisplay.class.php
+END
+forms.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/forms.inc.php
+END
+validate.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/validate.lib.php
+END
+common.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/common.inc.php
+END
+form_processing.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/form_processing.lib.php
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/.htaccess
+END
+Form.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/Form.class.php
+END
+FormDisplay.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/FormDisplay.tpl.php
+END
+config_info.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/lib/config_info.inc.php
+END

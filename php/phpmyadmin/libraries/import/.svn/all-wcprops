@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import
+END
+csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/csv.php
+END
+xlsx.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/xlsx.php
+END
+sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/sql.php
+END
+xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/xml.php
+END
+docsql.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/docsql.php
+END
+ods.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/ods.php
+END
+xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/xls.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/README
+END
+ldi.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/ldi.php
+END

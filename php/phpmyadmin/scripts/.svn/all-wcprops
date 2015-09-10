@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts
+END
+lang-cleanup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/lang-cleanup.sh
+END
+upgrade.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/upgrade.pl
+END
+remove_control_m.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/remove_control_m.sh
+END
+find_unused_messages.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/find_unused_messages.sh
+END
+signon.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/signon.php
+END
+upgrade_tables_mysql_4_1_2+.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/upgrade_tables_mysql_4_1_2+.sql
+END
+check_lang.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/check_lang.php
+END
+decode_bug.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/decode_bug.php
+END
+convertcfg.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/convertcfg.pl
+END
+create-release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/create-release.sh
+END
+create_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/scripts/create_tables.sql
+END

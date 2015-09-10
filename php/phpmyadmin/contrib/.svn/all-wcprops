@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/contrib
+END
+swekey.sample.conf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/contrib/swekey.sample.conf
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/contrib/README
+END
+htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/contrib/htaccess
+END

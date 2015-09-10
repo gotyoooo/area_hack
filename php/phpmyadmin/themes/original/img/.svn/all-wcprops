@@ -1,0 +1,773 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img
+END
+logo_right.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/logo_right.png
+END
+b_print.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_print.png
+END
+window-new.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/window-new.png
+END
+s_sync.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_sync.png
+END
+b_tblanalyse.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_tblanalyse.png
+END
+b_lastpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_lastpage.png
+END
+new_data_selected_hovered.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_data_selected_hovered.jpg
+END
+s_notice.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_notice.png
+END
+b_tblops.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_tblops.png
+END
+b_index.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_index.png
+END
+b_prevpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_prevpage.png
+END
+arrow_rtl.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/arrow_rtl.png
+END
+new_data.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_data.jpg
+END
+error.ico
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/error.ico
+END
+vertical_line.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/vertical_line.png
+END
+s_rights.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_rights.png
+END
+b_edit.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_edit.png
+END
+s_vars.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_vars.png
+END
+b_empty.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_empty.png
+END
+bd_lastpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_lastpage.png
+END
+b_unique.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_unique.png
+END
+new_struct_selected_hovered.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_struct_selected_hovered.jpg
+END
+bd_prevpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_prevpage.png
+END
+new_data_selected.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_data_selected.jpg
+END
+b_docsql.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_docsql.png
+END
+s_reload.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_reload.png
+END
+bd_sbrowse.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_sbrowse.png
+END
+b_docs.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_docs.png
+END
+b_selboard.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_selboard.png
+END
+b_views.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_views.png
+END
+b_pdfdoc.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_pdfdoc.png
+END
+asc_order.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/asc_order.png
+END
+b_relations.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_relations.png
+END
+b_browse.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_browse.png
+END
+b_comment.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_comment.png
+END
+b_tbloptimize.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_tbloptimize.png
+END
+b_props.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_props.png
+END
+s_loggoff.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_loggoff.png
+END
+b_usrcheck.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_usrcheck.png
+END
+b_sdb.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_sdb.png
+END
+bd_unique.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_unique.png
+END
+b_tblimport.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_tblimport.png
+END
+s_theme.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_theme.png
+END
+docs_menu_bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/docs_menu_bg.png
+END
+s_fulltext.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_fulltext.png
+END
+bd_firstpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_firstpage.png
+END
+b_help.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_help.png
+END
+s_replication.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_replication.png
+END
+b_newtbl.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_newtbl.png
+END
+s_error2.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_error2.png
+END
+s_process.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_process.png
+END
+new_struct_selected.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_struct_selected.jpg
+END
+bd_browse.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_browse.png
+END
+s_db.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_db.png
+END
+b_deltbl.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_deltbl.png
+END
+logo_left.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/logo_left.png
+END
+b_nextpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_nextpage.png
+END
+b_tipp.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_tipp.png
+END
+item_ltr.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/item_ltr.png
+END
+b_usredit.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_usredit.png
+END
+b_insrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_insrow.png
+END
+b_export.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_export.png
+END
+s_warn.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_warn.png
+END
+s_success.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_success.png
+END
+s_host.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_host.png
+END
+b_sql.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_sql.png
+END
+b_dbstatistics.png
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_dbstatistics.png
+END
+b_drop.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_drop.png
+END
+b_bookmark.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_bookmark.png
+END
+s_cancel.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_cancel.png
+END
+arrow_ltr.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/arrow_ltr.png
+END
+bd_deltbl.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_deltbl.png
+END
+spacer.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/spacer.png
+END
+s_views.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_views.png
+END
+bd_nextpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_nextpage.png
+END
+eye.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/eye.png
+END
+b_sbrowse.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_sbrowse.png
+END
+bd_insrow.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_insrow.png
+END
+bd_primary.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_primary.png
+END
+item.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/item.png
+END
+bd_ftext.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_ftext.png
+END
+s_status.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_status.png
+END
+new_struct_hovered.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_struct_hovered.jpg
+END
+b_usrlist.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_usrlist.png
+END
+bd_drop.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_drop.png
+END
+s_error.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_error.png
+END
+bd_index.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_index.png
+END
+pma_logo2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/pma_logo2.png
+END
+b_select.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_select.png
+END
+b_firstpage.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_firstpage.png
+END
+s_asc.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_asc.png
+END
+s_cancel2.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_cancel2.png
+END
+b_minus.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_minus.png
+END
+b_info.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_info.png
+END
+b_save.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_save.png
+END
+b_newdb.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_newdb.png
+END
+s_asci.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_asci.png
+END
+s_lang.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_lang.png
+END
+bd_empty.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_empty.png
+END
+b_search.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_search.png
+END
+ajax_clock_small.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/ajax_clock_small.gif
+END
+eye_grey.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/eye_grey.png
+END
+s_really.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_really.png
+END
+b_view.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_view.png
+END
+s_partialtext.png
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_partialtext.png
+END
+b_usradd.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_usradd.png
+END
+bd_select.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/bd_select.png
+END
+b_plus.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_plus.png
+END
+b_tblexport.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_tblexport.png
+END
+s_okay.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_okay.png
+END
+new_struct.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_struct.jpg
+END
+new_data_hovered.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/new_data_hovered.jpg
+END
+b_usrdrop.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_usrdrop.png
+END
+s_desc.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_desc.png
+END
+s_tbl.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_tbl.png
+END
+b_engine.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_engine.png
+END
+b_sqlhelp.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_sqlhelp.png
+END
+b_calendar.png
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_calendar.png
+END
+b_import.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_import.png
+END
+s_info.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_info.png
+END
+php_sym.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/php_sym.png
+END
+item_rtl.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/item_rtl.png
+END
+s_passwd.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_passwd.png
+END
+b_primary.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_primary.png
+END
+b_sqldoc.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_sqldoc.png
+END
+s_attention.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/s_attention.png
+END
+b_home.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_home.png
+END
+b_ftext.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes/original/img/b_ftext.png
+END

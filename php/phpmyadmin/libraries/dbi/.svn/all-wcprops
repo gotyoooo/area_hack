@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/dbi
+END
+mysqli.dbi.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/dbi/mysqli.dbi.lib.php
+END
+mysql.dbi.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/dbi/mysql.dbi.lib.php
+END

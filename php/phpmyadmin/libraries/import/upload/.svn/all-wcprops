@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/upload
+END
+uploadprogress.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/upload/uploadprogress.php
+END
+noplugin.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/upload/noplugin.php
+END
+apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/import/upload/apc.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/auth/swekey
+END
+swekey.auth.lib.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/auth/swekey/swekey.auth.lib.php
+END
+musbe-ca.crt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/auth/swekey/musbe-ca.crt
+END
+authentication.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/auth/swekey/authentication.inc.php
+END
+swekey.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/auth/swekey/swekey.php
+END

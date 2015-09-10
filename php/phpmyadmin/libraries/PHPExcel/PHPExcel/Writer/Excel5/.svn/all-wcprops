@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5
+END
+Escher.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5/Escher.php
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5/Worksheet.php
+END
+Parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5/Parser.php
+END
+Workbook.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5/Workbook.php
+END
+Xf.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5/Xf.php
+END
+BIFFwriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5/BIFFwriter.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Writer/Excel5/Font.php
+END

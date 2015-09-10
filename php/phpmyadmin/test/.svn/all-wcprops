@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test
+END
+PMA_localisedDateTimespan_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_localisedDateTimespan_test.php
+END
+PMA_showHint_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_showHint_test.php
+END
+PMA_pow_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_pow_test.php
+END
+Environment_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/Environment_test.php
+END
+PMA_ifSetOr_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_ifSetOr_test.php
+END
+PMA_get_real_size_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_get_real_size_test.php
+END
+PmaSeleniumPrivilegesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PmaSeleniumPrivilegesTest.php
+END
+PMA_blowfish_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_blowfish_test.php
+END
+PMA_formatNumberByteDown_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_formatNumberByteDown_test.php
+END
+PMA_quoting_slashing_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_quoting_slashing_test.php
+END
+FailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/FailTest.php
+END
+PmaSeleniumXssTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PmaSeleniumXssTest.php
+END
+PMA_transformation_getOptions_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_transformation_getOptions_test.php
+END
+PMA_headerLocation_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_headerLocation_test.php
+END
+PMA_Message_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_Message_test.php
+END
+PMA_escapeJsString_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_escapeJsString_test.php
+END
+PMA_sanitize_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_sanitize_test.php
+END
+PMA_generateCommonUrl_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_generateCommonUrl_test.php
+END
+AllTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/AllTests.php
+END
+AllSeleniumTests.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/AllSeleniumTests.php
+END
+PMA_cache_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_cache_test.php
+END
+theme.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/theme.php
+END
+wui.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/wui.php
+END
+PMA_foreignKeySupported_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_foreignKeySupported_test.php
+END
+PMA_whichCrlf_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_whichCrlf_test.php
+END
+PMA_stringOperations_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_stringOperations_test.php
+END
+PmaSeleniumLoginTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PmaSeleniumLoginTest.php
+END
+PMA_printableBitValue_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_printableBitValue_test.php
+END
+PmaSeleniumTestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PmaSeleniumTestCase.php
+END
+PMA_STR_sub_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_STR_sub_test.php
+END
+PMA_escapeMySqlWildcards_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_escapeMySqlWildcards_test.php
+END
+PMA_isValid_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/test/PMA_isValid_test.php
+END

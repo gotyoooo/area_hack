@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/contrib/packaging/Fedora
+END
+phpMyAdmin.spec
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/contrib/packaging/Fedora/phpMyAdmin.spec
+END
+phpMyAdmin-http.conf
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/contrib/packaging/Fedora/phpMyAdmin-http.conf
+END

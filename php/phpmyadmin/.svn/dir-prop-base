@@ -1,0 +1,20 @@
+K 10
+svn:ignore
+V 164
+config.inc.php
+config.header.inc.php
+config.footer.inc.php
+phpmyadmin.wpj
+*.swp
+upload
+save
+.vimrc
+.project
+.settings
+.buildpath
+config
+tags
+.cache
+.projectOptions
+
+END

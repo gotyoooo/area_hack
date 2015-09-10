@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel
+END
+RichText.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/RichText.php
+END
+DocumentProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/DocumentProperties.php
+END
+HashTable.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/HashTable.php
+END
+Worksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Worksheet.php
+END
+Calculation.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Calculation.php
+END
+ReferenceHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/ReferenceHelper.php
+END
+IComparable.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/IComparable.php
+END
+IOFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/IOFactory.php
+END
+Cell.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Cell.php
+END
+Style.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Style.php
+END
+NamedRange.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/NamedRange.php
+END
+Comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/Comment.php
+END
+WorksheetIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/WorksheetIterator.php
+END
+DocumentSecurity.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/libraries/PHPExcel/PHPExcel/DocumentSecurity.php
+END

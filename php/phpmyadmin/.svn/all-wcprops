@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin
+END
+pdf_schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pdf_schema.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/error.php
+END
+db_printview.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_printview.php
+END
+phpmyadmin.css.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/phpmyadmin.css.php
+END
+tbl_addfield.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_addfield.php
+END
+server_replication.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_replication.php
+END
+server_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_import.php
+END
+show_config_errors.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/show_config_errors.php
+END
+tbl_structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_structure.php
+END
+README.VENDOR
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/README.VENDOR
+END
+tbl_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_create.php
+END
+server_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_export.php
+END
+chk_rel.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/chk_rel.php
+END
+webapp.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/webapp.php
+END
+db_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_import.php
+END
+pmd_save_pos.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_save_pos.php
+END
+tbl_select.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_select.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/main.php
+END
+tbl_operations.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_operations.php
+END
+pmd_relation_upd.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_relation_upd.php
+END
+Documentation.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/Documentation.html
+END
+db_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_export.php
+END
+tbl_change.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_change.php
+END
+changelog.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/changelog.php
+END
+docs.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/docs.css
+END
+translators.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/translators.html
+END
+server_variables.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_variables.php
+END
+navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/navigation.php
+END
+user_password.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/user_password.php
+END
+tbl_indexes.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_indexes.php
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/robots.txt
+END
+server_binlog.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_binlog.php
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/ChangeLog
+END
+db_sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_sql.php
+END
+tbl_row_action.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_row_action.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/index.php
+END
+db_tracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_tracking.php
+END
+pmd_display_field.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_display_field.php
+END
+tbl_alter.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_alter.php
+END
+calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/calendar.php
+END
+db_qbe.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_qbe.php
+END
+import_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/import_status.php
+END
+db_datadict.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_datadict.php
+END
+server_sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_sql.php
+END
+tbl_printview.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_printview.php
+END
+print.css
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/print.css
+END
+config.sample.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/config.sample.inc.php
+END
+view_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/view_create.php
+END
+server_privileges.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_privileges.php
+END
+server_synchronize.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_synchronize.php
+END
+phpinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/phpinfo.php
+END
+db_structure.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_structure.php
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/CREDITS
+END
+favicon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/favicon.ico
+END
+db_create.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_create.php
+END
+pmd_pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_pdf.php
+END
+server_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_status.php
+END
+tbl_import.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_import.php
+END
+tbl_replace.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_replace.php
+END
+pmd_general.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_general.php
+END
+tbl_relation.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_relation.php
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/INSTALL
+END
+bs_change_mime_type.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/bs_change_mime_type.php
+END
+tbl_export.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_export.php
+END
+bs_play_media.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/bs_play_media.php
+END
+db_operations.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_operations.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/LICENSE
+END
+transformation_overview.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/transformation_overview.php
+END
+server_collations.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_collations.php
+END
+querywindow.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/querywindow.php
+END
+sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/sql.php
+END
+server_processlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_processlist.php
+END
+tbl_sql.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_sql.php
+END
+tbl_move_copy.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_move_copy.php
+END
+tbl_tracking.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/tbl_tracking.php
+END
+transformation_wrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/transformation_wrapper.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/README
+END
+import.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/import.php
+END
+db_search.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/db_search.php
+END
+server_databases.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_databases.php
+END
+server_engines.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/server_engines.php
+END
+bs_disp_as_mime_type.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/bs_disp_as_mime_type.php
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/TODO
+END
+export.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/export.php
+END
+license.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/license.php
+END
+browse_foreigners.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/browse_foreigners.php
+END
+themes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/themes.php
+END
+pmd_relation_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_relation_new.php
+END
+pmd_help.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_help.php
+END
+pmd_common.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pmd_common.php
+END
+pdf_pages.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/pdf_pages.php
+END

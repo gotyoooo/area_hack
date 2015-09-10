@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/frames
+END
+form.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/frames/form.inc.php
+END
+menu.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/frames/menu.inc.php
+END
+config.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/frames/config.inc.php
+END
+index.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/frames/index.inc.php
+END
+servers.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/setup/frames/servers.inc.php
+END

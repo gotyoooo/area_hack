@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js
+END
+keyhandler.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/keyhandler.js
+END
+tbl_change.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/tbl_change.js
+END
+common.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/common.js
+END
+functions.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/functions.js
+END
+dom-drag.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/dom-drag.js
+END
+tooltip.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/tooltip.js
+END
+mootools.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/mootools.js
+END
+mootools-domready-rainbow.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/mootools-domready-rainbow.js
+END
+querywindow.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/querywindow.js
+END
+indexes.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/indexes.js
+END
+navigation.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/navigation.js
+END
+server_privileges.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/server_privileges.js
+END
+mootools_common.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/phpmyadmin/!svn/ver/13451/tags/STABLE/phpMyAdmin/js/mootools_common.js
+END
