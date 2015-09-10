@@ -1,0 +1,181 @@
+    1  ifconfig 
+    2  hostname fghack-b
+    3  vi /etc/sysconfig/network
+    4  exit
+    5  yum install httpd
+    6  /etc/init.d/httpd 
+    7  /etc/init.d/httpd start
+    8  /etc/init.d/iptables status
+    9  /etc/init.d/iptables stop
+   10  ll
+   11  vi /etc/httpd/conf/httpd.conf 
+   12  /etc/init.d/httpd restart
+   13  vi /etc/httpd/conf/httpd.conf 
+   14  /etc/init.d/httpd restart
+   15  vi /etc/httpd/conf/httpd.conf 
+   16  cd /var/www/html/
+   17  ll
+   18  vi test.html
+   19  cat test.html 
+   20  vi /etc/httpd/conf/httpd.conf 
+   21  /etc/init.d/httpd restart
+   22  vi test.php
+   23  yum install php php-mbstring
+   24  /etc/init.d/httpd restart
+   25  history
+   26  yum install mysql
+   27  yum install mysql mysql-devel
+   28  y
+   29  mysql -v
+   30  yum install mysql-server
+   31  /etc/init.d/mysqld start
+   32  mysql -u root -p
+   33  history
+   34  yum install php-pdo
+   35  yum install php-pdo php-mysql*
+   36  history
+   37  mysql -u root -p
+   38  cd /var/www/html/
+   39  ll
+   40  vi createUser.php
+   41  tail -f /var/log/httpd/error_log 
+   42  yum install php-mysql*
+   43  yum install php-mysq*
+   44  php -m
+   45  vi /etc/php.d/mysql.ini 
+   46  vi /etc/php.d/mysqli.ini 
+   47  vi /etc/php.d/pdo.ini 
+   48  php -m
+   49  tail -f /var/log/httpd/error_log 
+   50  rpm -qa php*
+   51  vi /etc/php.ini 
+   52  ll
+   53  vi createUser.php 
+   54  /etc/init.d/httpd restart
+   55  vi createUser.php 
+   56  yum install phpmyadmin
+   57  yum install phpMyAdmin
+   58  svn checkout https://phpmyadmin.svn.sourceforge.net/svnroot/phpmyadmin/tags/STABLE/phpMyAdmin phpmyadmin
+   59  yum install svn
+   60  svn checkout https://phpmyadmin.svn.sourceforge.net/svnroot/phpmyadmin/tags/STABLE/phpMyAdmin phpmyadmin
+   61  ll
+   62  cd phpmyadmin/
+   63  ll
+   64  cp config.sample.inc.php config.inc.php 
+   65  vi config.inc.php 
+   66  chmod 660 ./config.inc.php 
+   67  ll
+   68  vi config.inc.php 
+   69  chmod 777 config.inc.php 
+   70  chmod 666 config.inc.php 
+   71  chmod 660 config.inc.php 
+   72  vi config.inc.php 
+   73  /etc/init.d/httpd restart
+   74  vi config.inc.php
+   75  cd ../
+   76  ps aux | grep httpd
+   77  chown -R apache. ./phpmyadmin
+   78  chmod 705 phpmyadmin/config.inc.php 
+   79  yum intall php-mcrypt
+   80  yum install php-mcrypt
+   81  yum install php-mcrypt*
+   82  vi phpmyadmin/config.inc.php 
+   83  vi enterRoom.php
+   84  cat createUser.php 
+   85  vi enterRoom.php
+   86  cat enterRoom.php 
+   87  vi checkRoom.php
+   88  cd /var/www/html/
+   89  ll
+   90  vi checkRoom.php 
+   91  vi enterRoom.php 
+   92  vi checkRoom.php 
+   93  vi createRoom.php
+   94  cd /var/www/html/
+   95  ll
+   96  vi createRoom.php 
+   97  vi checkFlag.php
+   98  cp checkRoom.php checkFlag.php
+   99  vi checkFlag.php 
+  100  cat enterRoom.php 
+  101  ll
+  102  cat checkRoom.php 
+  103  vi checkFlag.php 
+  104  ll
+  105  vi startGame.php
+  106  cp createUser.php startGame.php
+  107  vi startGame.php 
+  108  cp checkFlag.php checkStart.php
+  109  vi checkStart.php 
+  110  vi getFlag.php
+  111  cat checkStart.php 
+  112  vi getFlag.php
+  113  ll
+  114  cat startGame.php 
+  115  ll
+  116  cat enterRoom.php 
+  117  vi getFlag.php
+  118  vi checkStart.php 
+  119  ll
+  120  cat createRoom.php 
+  121  cat checkRoom.php 
+  122  ll
+  123  vi zahyo.php
+  124  vi createRoom.php 
+  125  ll
+  126  cat enterRoom.php 
+  127  ll
+  128  cat 
+  129  cat checkStart.php 
+  130  find ./ | xargs grep "DELETE"
+  131  find ./ | xargs grep "delete"
+  132  find ./ | xargs grep "delete"| grep -v phpmyadmin
+  133  find ./ | xargs grep "delete"| grep -v "phpmyadmin"
+  134  find ./ | xargs grep "delete"| grep -v "phpmyadmin" 2> /dev/null 
+  135  find ./ | xargs grep "delete"| grep -v "phpmyadmin" | grep -v grep
+  136  ll
+  137  cat checkFlag.php 
+  138  ll
+  139  cat checkRoom.php 
+  140  ll
+  141  cat cat createRoom.php 
+  142  vi createRoom.php 
+  143  tail -f /var/log/httpd/access_log
+  144  cat checkRoom.php 
+  145  tail -f /var/log/httpd/access_log
+  146  ll
+  147  cat enterRoom.php 
+  148  tail -f /var/log/httpd/access_log
+  149  cat /var/log/httpd/access_log
+  150  tail -f /var/log/httpd/access_log
+  151  cat createRoom.php 
+  152  ll
+  153  vi 
+  154  cat createRoom.php 
+  155  vi checkRoom.php 
+  156  vi createRoom.php 
+  157  tail -f /var/log/httpd/access_log
+  158  ll
+  159  vi checkFlag.php 
+  160  tail -f /var/log/httpd/access_log
+  161  vi createRoom.php 
+  162  tail -f /var/log/httpd/access_log
+  163  tail -f /var/log/httpd/access_log | grep create
+  164  cat /var/log/httpd/access_log | grep create
+  165  tail -f /var/log/httpd/access_log
+  166  exit
+  167  cd /var/www/
+  168  cd html/
+  169  ll
+  170  rm test.html 
+  171  rm test.php 
+  172  ll
+  173  tar zcvf fghack.tar.gz ./*
+  174  ll
+  175  mv fghack.tar.gz ~/
+  176  cd
+  177  ell
+  178  ll
+  179  exit
+  180  history
+  181  history > server_history.text
